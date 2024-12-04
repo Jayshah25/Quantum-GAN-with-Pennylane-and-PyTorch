@@ -1,4 +1,4 @@
-# Quantum GPT with Pennylane and PyTorch
+# Quantum GAN with Pennylane and PyTorch
 
 **Poblem Statement:** Train a Quantum GAN that has a quantum generator and a quantum discriminator to learn one-qubit quantum state.
 
